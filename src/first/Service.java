@@ -1,0 +1,8 @@
+package first;
+
+public class Service {
+
+  public void doService() {
+    System.out.println("in doService");
+  }
+}
